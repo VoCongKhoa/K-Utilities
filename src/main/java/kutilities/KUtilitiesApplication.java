@@ -1,11 +1,13 @@
 package kutilities;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 import java.util.Locale;
 
 @SpringBootApplication
+@Slf4j
 public class KUtilitiesApplication {
 
     private static final String DD_MMM_YYYY_HH_MM_SS = "dd-MMM-yyyy HH:mm:ss";
@@ -32,6 +34,4 @@ public class KUtilitiesApplication {
                 , HHMM
                 , HHMMSS));
     }
-
-
 }
