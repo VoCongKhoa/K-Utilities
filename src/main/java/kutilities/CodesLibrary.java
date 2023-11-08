@@ -200,7 +200,7 @@ public class CodesLibrary {
                             .countryCode(country.getCountryCode())
                             .build();
                 }
-        ).toList();
+        ).collect(Collectors.toList());
         log.info(personCountryCombinationList.toString());
     }
 }
