@@ -1,19 +1,22 @@
 package kutilities;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
-import kutilities.dto.PersonCountryCombination;
-import kutilities.entity.Country;
-import kutilities.entity.Person;
+import kutilities.domain.dto.PersonCountryCombination;
+import kutilities.domain.entity.Country;
+import kutilities.domain.entity.Person;
 import lombok.extern.slf4j.Slf4j;
 
 import java.math.BigDecimal;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
 import java.util.UUID;
 import java.util.stream.Collectors;
 
+import static kutilities.domain.constants.LocalDateTimeConstants.*;
+
 @Slf4j
-public class CodesLibrary {
+public class RunTestingImpl {
 
     static List<Person> personList;
     static List<Country> countryList;
@@ -202,5 +205,25 @@ public class CodesLibrary {
                 }
         ).collect(Collectors.toList());
         log.info(personCountryCombinationList.toString());
+
+
+        /**
+         * Test LocalDateTime
+         *
+         */
+        System.out.println(KUtilities.formatLocalDateTime("01-Jan-2023 00:00:00"
+                , DD_MMM_YYYY_HH_MM_SS
+                , DD_MM_YYYY_HH_MM_SS
+                , Locale.ENGLISH
+                , Locale.ENGLISH));
+
+        System.out.println(KUtilities.formatLocalDate("01-Jan-2023"
+                , DD_MMM_YYYY
+                , DD_MM_YYYY
+                , Locale.ENGLISH
+                , Locale.ENGLISH));
+        System.out.println(KUtilities.formatLocalTime("00:00"
+                , HHMM
+                , HHMMSS));
     }
 }
