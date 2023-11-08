@@ -1,4 +1,4 @@
-package kutilities.dto;
+package kutilities.domain.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.AllArgsConstructor;

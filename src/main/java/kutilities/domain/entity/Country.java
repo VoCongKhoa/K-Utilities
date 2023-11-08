@@ -1,4 +1,4 @@
-package kutilities.entity;
+package kutilities.domain.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
