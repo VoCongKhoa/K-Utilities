@@ -53,7 +53,7 @@ public class ExcelUtils {
                     cellValue = cell.getCellFormula();
                     break;
                 case BLANK:
-                    cellValue = null;
+                    cellValue = "";
                     break;
                 default:
                     // Handle other cell types as needed

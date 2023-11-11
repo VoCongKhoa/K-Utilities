@@ -67,8 +67,6 @@ public class ExcelService {
         // Write workbook to response stream
         workbook.write(response.getOutputStream());
         workbook.close();
-
-
     }
 
     public void writeSaleRecords(HttpServletResponse response) throws IOException {
