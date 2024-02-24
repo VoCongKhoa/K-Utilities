@@ -1,0 +1,2320 @@
+<?xml version="1.0" encoding="UTF-8"?>				
+<cardflip>				
+	<cardContent>			
+		<card id="1" category="">		
+			<terms audio="803049_dr_fft24_hfwc_a_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"a"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_a_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have <b>a</b> hat.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="2" category="">		
+			<terms audio="803049_dr_fft24_hfwc_about_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"b"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"u"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_about_sentence.mp3" contenttype="text">	
+				<![CDATA[The book is <b>about</b> rocks.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="3" category="R_CONTROLLED_VOWEL_OR_ORE_OAR">		
+			<terms audio="803049_dr_fft24_hfwc_after_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"f"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_after_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Math class is <b>after</b> lunch.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="4" category="LONG_A">		
+			<terms audio="803049_dr_fft24_hfwc_again_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"a"},{"id":2,"isHeart":false,"char":"g"},{"id":3,"isHeart":true,"char":"a"},{"id":4,"isHeart":true,"char":"i"},{"id":5,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_again_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can we play the game <b>again</b>?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="5" category="ENDING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_all_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_all_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>All</b> cats like to nap.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="6" category="ENDING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_also_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_also_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Dad gets up at six, and I do <b>also</b>.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="7" category="LONG_OO">		
+			<terms audio="803049_dr_fft24_hfwc_always_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"w"},{"id":4,"isHeart":false,"char":"a"},{"id":5,"isHeart":false,"char":"y"},{"id":6,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_always_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We <b>always</b> meet in Room 3.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="8" category="">		
+			<terms audio="803049_dr_fft24_hfwc_am_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"m"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_am_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>am</b> glad.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="9" category="">		
+			<terms audio="803049_dr_fft24_hfwc_an_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_an_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have <b>an</b> apple.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="10" category="SHORT_A">		
+			<terms audio="803049_dr_fft24_hfwc_and_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_and_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Jack <b>and</b> I like this game.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="11" category="DIGRAPH_CH_TCH">		
+			<terms audio="803049_dr_fft24_hfwc_another_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"h"},{"id":6,"isHeart":false,"char":"e"},{"id":7,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_another_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can I have <b>another</b> glass of milk?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="12" category="MORE_LONG_O_LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_any_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_any_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We did not get <b>any</b> rain.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="13" category="SHORT_U">		
+			<terms audio="803049_dr_fft24_hfwc_are_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_are_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We <b>are</b> on the bus.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="14" category="">		
+			<terms audio="803049_dr_fft24_hfwc_around_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"u"},{"id":5,"isHeart":false,"char":"n"},{"id":6,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_around_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Kim runs <b>around</b> the track.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="15" category="">		
+			<terms audio="803049_dr_fft24_hfwc_as_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_as_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Run <b>as</b> fast <b>as</b> you can!]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="16" category="">		
+			<terms audio="803049_dr_fft24_hfwc_ask_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"s"},{"id":3,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_ask_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>ask</b> Mom if I can go.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="17" category="LONG_OO">		
+			<terms audio="803049_dr_fft24_hfwc_at_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_at_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I am <b>at</b> my desk.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="18" category="LONG_OO">		
+			<terms audio="803049_dr_fft24_hfwc_ate_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"t"},{"id":3,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_ate_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>ate</b> a snack after breakfast.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="19" category="LONG_A">		
+			<terms audio="803049_dr_fft24_hfwc_away_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"a"},{"id":2,"isHeart":false,"char":"w"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_away_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The cat ran <b>away</b>.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="20" category="">		
+			<terms audio="803049_dr_fft24_hfwc_back_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_back_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I went <b>back</b> to my desk.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="21" category="">		
+			<terms audio="803049_dr_fft24_hfwc_be_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_be_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I hope to <b>be</b> a teacher one day.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="22" category="FINAL_E">		
+			<terms audio="803049_dr_fft24_hfwc_because_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"a"},{"id":5,"isHeart":false,"char":"u"},{"id":6,"isHeart":false,"char":"s"},{"id":7,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_because_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have to rush <b>because</b> I am late.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="23" category="FINAL_E_WITH_SOFT_C_G">		
+			<terms audio="803049_dr_fft24_hfwc_been.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":true,"char":"e"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_been_sentence.mp3" contenttype="text">	
+				<![CDATA[It has <b>been</b> nice to see you.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="24" category="R_CONTROLLED_VOWEL_OR_ORE_OAR">		
+			<terms audio="803049_dr_fft24_hfwc_before_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"f"},{"id":4,"isHeart":false,"char":"o"},{"id":5,"isHeart":false,"char":"r"},{"id":6,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_before_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We will be home <b>before</b> lunch.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="25" category="R_CONTROLLED_VOWEL_UR">		
+			<terms audio="803049_dr_fft24_hfwc_best_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_best_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Pat is my <b>best</b> friend.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="26" category="R_CONTROLLED_VOWEL_UR">		
+			<terms audio="803049_dr_fft24_hfwc_better_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"e"},{"id":6,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_better_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Liz sings <b>better</b> than I do.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="27" category="">		
+			<terms audio="803049_dr_fft24_hfwc_big_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"g"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_big_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Do you have a <b>big</b> box?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="28" category="">		
+			<terms audio="803049_dr_fft24_hfwc_black_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"c"},{"id":5,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_black_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The pen has <b>black</b> ink.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="29" category="">		
+			<terms audio="803049_dr_fft24_hfwc_blue_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"u"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_blue_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The sky is <b>blue</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="30" category="LONG_O">		
+			<terms audio="803049_dr_fft24_hfwc_both_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_both_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The twins <b>both</b> like to swim.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="31" category="">		
+			<terms audio="803049_dr_fft24_hfwc_bring_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"g"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_bring_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>bring</b> me a fork?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="32" category="">		
+			<terms audio="803049_dr_fft24_hfwc_brown_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"w"},{"id":5,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_brown_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have a <b>brown</b> coat.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="33" category="">		
+			<terms audio="803049_dr_fft24_hfwc_but_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_but_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will go to the lake, <b>but</b> I will not swim.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="34" category="DIGRAPH_NG_BLEND_NK">		
+			<terms audio="803049_dr_fft24_hfwc_buy_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":true,"char":"u"},{"id":3,"isHeart":true,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_buy_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[What did you <b>buy</b> at the store?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="35" category="DIGRAPH_NG_BLEND_NK">		
+			<terms audio="803049_dr_fft24_hfwc_by_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"b"},{"id":2,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_by_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The note was written <b>by</b> me.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="36" category="">		
+			<terms audio="803049_dr_fft24_hfwc_call_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_call_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Call</b> me if you will be late.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="37" category="R_CONTROLLED_ARE_AIR_EAR">		
+			<terms audio="803049_dr_fft24_hfwc_called_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"},{"id":5,"isHeart":false,"char":"e"},{"id":6,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_called_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[A baby bear is <b>called</b> a cub.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="38" category="">		
+			<terms audio="803049_dr_fft24_hfwc_came_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_came_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bus <b>came</b> on time.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="39" category="">		
+			<terms audio="803049_dr_fft24_hfwc_can_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_can_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Can</b> I sit with you?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="40" category="LONG_U">		
+			<terms audio="803049_dr_fft24_hfwc_carry_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":false,"char":"r"},{"id":5,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_carry_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>carry</b> the big bag.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="41" category="">		
+			<terms audio="803049_dr_fft24_hfwc_clean_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"a"},{"id":5,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_clean_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>clean</b> your room?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="42" category="">		
+			<terms audio="803049_dr_fft24_hfwc_cold_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_cold_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is a <b>cold</b> day.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="43" category="FINAL_E">		
+			<terms audio="803049_dr_fft24_hfwc_come_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_come_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Will you <b>come</b> to my house?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="44" category="FINAL_E_WITH_SOFT_C_G">		
+			<terms audio="803049_dr_fft24_hfwc_could_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"u"},{"id":4,"isHeart":true,"char":"l"},{"id":5,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_could_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>could</b> see the nest.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="45" category="">		
+			<terms audio="803049_dr_fft24_hfwc_cut_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"c"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_cut_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We can <b>cut</b> the grass.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="46" category="">		
+			<terms audio="803049_dr_fft24_hfwc_day_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_day_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It was a fun <b>day</b>!]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="47" category="">		
+			<terms audio="803049_dr_fft24_hfwc_did_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_did_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Did</b> you get a pet?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="48" category="R_CONTROLLED_VOWEL_OR_ORE_OAR">		
+			<terms audio="803049_dr_fft24_hfwc_different_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"f"},{"id":4,"isHeart":false,"char":"f"},{"id":5,"isHeart":false,"char":"e"},{"id":6,"isHeart":false,"char":"r"},{"id":7,"isHeart":false,"char":"e"},{"id":8,"isHeart":false,"char":"n"},{"id":9,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_different_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Ed has six <b>different</b> hats.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="49" category="SHORT_I">		
+			<terms audio="803049_dr_fft24_hfwc_do_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":true,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_do_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Do</b> you have a pet?]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="50" category="SHORT_I">		
+			<terms audio="803049_dr_fft24_hfwc_does_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_does_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Does</b> the bat fit in the bag?]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="51" category="DIGRAPH_NG_BLEND_NK">		
+			<terms audio="803049_dr_fft24_hfwc_don't_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"’"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_don't_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Don't</b> step in the mud!]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="52" category="DIGRAPH_NG_BLEND_NK">		
+			<terms audio="803049_dr_fft24_hfwc_done_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_done_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Jan has <b>done</b> ten sit-ups.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="53" category="SHORT_U">		
+			<terms audio="803049_dr_fft24_hfwc_down_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"w"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_down_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can I sit <b>down</b>?]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="54" category="">		
+			<terms audio="803049_dr_fft24_hfwc_draw_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_draw_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>draw</b> a map?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="55" category="">		
+			<terms audio="803049_dr_fft24_hfwc_drink_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"d"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_drink_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>drink</b> the milk?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="56" category="">		
+			<terms audio="803049_dr_fft24_hfwc_each_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"e"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_each_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We fill <b>each</b> box.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="57" category="">		
+			<terms audio="803049_dr_fft24_hfwc_eat_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"e"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_eat_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>eat</b> the toast?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="58" category="FINAL_E">		
+			<terms audio="803049_dr_fft24_hfwc_eight_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"e"},{"id":2,"isHeart":true,"char":"i"},{"id":3,"isHeart":true,"char":"g"},{"id":4,"isHeart":true,"char":"h"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_eight_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[What is <b>eight</b> plus six?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="59" category="COMPLEX_VOWEL">		
+			<terms audio="803049_dr_fft24_hfwc_even_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"e"},{"id":2,"isHeart":false,"char":"v"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_even_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I do not <b>even</b> need to rush.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="60" category="LONG_U">		
+			<terms audio="803049_dr_fft24_hfwc_every_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"e"},{"id":2,"isHeart":false,"char":"v"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"r"},{"id":5,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_every_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I wash <b>every</b> cup.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="61" category="R_CONTROLLED_VOWEL_AR">		
+			<terms audio="803049_dr_fft24_hfwc_fall_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_fall_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Try not to <b>fall</b> on the ice.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="62" category="R_CONTROLLED_VOWEL_UR">		
+			<terms audio="803049_dr_fft24_hfwc_far_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_far_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The sun is <b>far</b> off in space.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="63" category="">		
+			<terms audio="803049_dr_fft24_hfwc_fast_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_fast_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I can run <b>fast</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="64" category="">		
+			<terms audio="803049_dr_fft24_hfwc_find_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_find_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>find</b> it on the map?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="65" category="R_CONTROLLED_VOWEL_UR">		
+			<terms audio="803049_dr_fft24_hfwc_first_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"s"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_first_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is the <b>first</b> day of school.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="66" category="">		
+			<terms audio="803049_dr_fft24_hfwc_five_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_five_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We hiked <b>five</b> miles.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="67" category="SHORT_OO">		
+			<terms audio="803049_dr_fft24_hfwc_fly_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_fly_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The birds <b>fly</b> to the nest.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="68" category="SHORT_E">		
+			<terms audio="803049_dr_fft24_hfwc_for_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_for_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Is the box <b>for</b> us?]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="69" category="">		
+			<terms audio="803049_dr_fft24_hfwc_found_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"u"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_found_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>found</b> the hat I had lost.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="70" category="LONG_U">		
+			<terms audio="803049_dr_fft24_hfwc_four_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"u"},{"id":4,"isHeart":true,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_four_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The boy has <b>four</b> blocks.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="71" category="ENDING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_from_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":true,"char":"o"},{"id":4,"isHeart":false,"char":"m"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_from_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The park is not far <b>from</b> here.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="72" category="R_CONTROLLED_VOWEL_AR">		
+			<terms audio="803049_dr_fft24_hfwc_full_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_full_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The glass is <b>full</b> of milk.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="73" category="">		
+			<terms audio="803049_dr_fft24_hfwc_funny_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"f"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_funny_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[That is a <b>funny</b> joke!]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="74" category="R_CONTROLLED_ARE_AIR_EAR">		
+			<terms audio="803049_dr_fft24_hfwc_gave_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_gave_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Mom <b>gave</b> me a hug.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="75" category="">		
+			<terms audio="803049_dr_fft24_hfwc_get_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_get_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>get</b> my hat.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="76" category="SILENT_LETTERS">		
+			<terms audio="803049_dr_fft24_hfwc_give_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_give_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>give</b> me a pen?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="77" category="">		
+			<terms audio="803049_dr_fft24_hfwc_go_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_go_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>go</b> home.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="78" category="SHORT_U">		
+			<terms audio="803049_dr_fft24_hfwc_goes_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_goes_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bus <b>goes</b> up the hill.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="79" category="">		
+			<terms audio="803049_dr_fft24_hfwc_going_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"g"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_going_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I am <b>going</b> on a hike.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="80" category="SHORT_E">		
+			<terms audio="803049_dr_fft24_hfwc_good_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_good_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Rags is a <b>good</b> dog.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="81" category="">		
+			<terms audio="803049_dr_fft24_hfwc_got_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_got_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We <b>got</b> on the train.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="82" category="">		
+			<terms audio="803049_dr_fft24_hfwc_green_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_green_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The grass is <b>green</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="83" category="">		
+			<terms audio="803049_dr_fft24_hfwc_grow_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"g"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_grow_sentence.mp3" contenttype="text">	
+				<![CDATA[Seeds <b>grow</b> into plants.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="84" category="">		
+			<terms audio="803049_dr_fft24_hfwc_had_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_had_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We <b>had</b> a lot of fun.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="85" category="">		
+			<terms audio="803049_dr_fft24_hfwc_has_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_has_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Mom <b>has</b> a van.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="86" category="SILENT_LETTERS">		
+			<terms audio="803049_dr_fft24_hfwc_have_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_have_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>have</b> a cat.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="87" category="">		
+			<terms audio="803049_dr_fft24_hfwc_he_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_he_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>He</b> is my brother.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="88" category="">		
+			<terms audio="803049_dr_fft24_hfwc_help_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_help_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>help</b> me?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="89" category="BEGINNING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_her_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_her_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Pam hugs <b>her</b> mom.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="90" category="LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_here_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_here_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We can play <b>here</b>.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="91" category="">		
+			<terms audio="803049_dr_fft24_hfwc_him_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"m"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_him_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I like <b>him</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="92" category="BEGINNING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_his_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_his_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Tom lost <b>his</b> bag.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="93" category="">		
+			<terms audio="803049_dr_fft24_hfwc_hold_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_hold_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>hold</b> your hand.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="94" category="">		
+			<terms audio="803049_dr_fft24_hfwc_hot_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_hot_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The sun is <b>hot</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="95" category="">		
+			<terms audio="803049_dr_fft24_hfwc_how_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_how_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>How</b> did you make that?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="96" category="">		
+			<terms audio="803049_dr_fft24_hfwc_hurt_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"h"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_hurt_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Sam <b>hurt</b> his hand.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="97" category="">		
+			<terms audio="803049_dr_fft24_hfwc_I_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"I"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_I_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>I</b> am glad.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="98" category="">		
+			<terms audio="803049_dr_fft24_hfwc_if_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"f"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_if_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will go with you <b>if</b> you like.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="99" category="">		
+			<terms audio="803049_dr_fft24_hfwc_in_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_in_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I am <b>in</b> class.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="100" category="">		
+			<terms audio="803049_dr_fft24_hfwc_into_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_into_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Ken gets <b>into</b> the van.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="101" category="SHORT_A">		
+			<terms audio="803049_dr_fft24_hfwc_is_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_is_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The box <b>is</b> big.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="102" category="">		
+			<terms audio="803049_dr_fft24_hfwc_it_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_it_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>It</b> is a cat.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="103" category="MORE_LONG_O_LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_its_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"i"},{"id":2,"isHeart":false,"char":"t"},{"id":3,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_its_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The dog wags <b>its</b> tail.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="104" category="">		
+			<terms audio="803049_dr_fft24_hfwc_jump_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"j"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_jump_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I can <b>jump</b> and hop.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="105" category="">		
+			<terms audio="803049_dr_fft24_hfwc_just_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"j"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_just_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>just</b> got your note.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="106" category="">		
+			<terms audio="803049_dr_fft24_hfwc_keep_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"k"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_keep_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[This coat will <b>keep</b> you warm.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="107" category="SHORT_OO">		
+			<terms audio="803049_dr_fft24_hfwc_kind_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"k"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_kind_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[What <b>kind</b> of book is that?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="108" category="SILENT_LETTERS">		
+			<terms audio="803049_dr_fft24_hfwc_know_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"k"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_know_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>know</b> that song.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="109" category="DIGRAPH_CH_TCH">		
+			<terms audio="803049_dr_fft24_hfwc_laugh_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":true,"char":"u"},{"id":4,"isHeart":true,"char":"g"},{"id":5,"isHeart":true,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_laugh_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The joke made me <b>laugh</b>.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="110" category="">		
+			<terms audio="803049_dr_fft24_hfwc_let_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_let_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Let</b> me tell you a story.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="111" category="SHORT_OO">		
+			<terms audio="803049_dr_fft24_hfwc_light_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"g"},{"id":4,"isHeart":false,"char":"h"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_light_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Turn the <b>light</b> on.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="112" category="">		
+			<terms audio="803049_dr_fft24_hfwc_like_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"k"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_like_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[What games do you <b>like</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="113" category="">		
+			<terms audio="803049_dr_fft24_hfwc_little_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"l"},{"id":6,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_little_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have a <b>little</b> sister.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="114" category="SILENT_LETTERS">		
+			<terms audio="803049_dr_fft24_hfwc_live_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_live_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bats <b>live</b> in a cave.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="115" category="">		
+			<terms audio="803049_dr_fft24_hfwc_long_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"g"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_long_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you wait for a <b>long</b> time?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="116" category="">		
+			<terms audio="803049_dr_fft24_hfwc_look_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"l"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_look_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Look</b> up at the sky.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="117" category="">		
+			<terms audio="803049_dr_fft24_hfwc_made_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"d"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_made_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>made</b> you a snack.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="118" category="">		
+			<terms audio="803049_dr_fft24_hfwc_make_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"k"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_make_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We will <b>make</b> a plan.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="119" category="">		
+			<terms audio="803049_dr_fft24_hfwc_man_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_man_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Dan is a <b>man</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="120" category="SHORT_O">		
+			<terms audio="803049_dr_fft24_hfwc_many_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_many_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Many</b> hats can fit in the box.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="121" category="">		
+			<terms audio="803049_dr_fft24_hfwc_may_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_may_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>May</b> I sit with you?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="122" category="">		
+			<terms audio="803049_dr_fft24_hfwc_me.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_me_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you meet <b>me</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="123" category="">		
+			<terms audio="803049_dr_fft24_hfwc_more_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_more_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We need <b>more</b> time.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="124" category="LONG_O">		
+			<terms audio="803049_dr_fft24_hfwc_most_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_most_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We won the <b>most</b> games.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="125" category="">		
+			<terms audio="803049_dr_fft24_hfwc_much_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_much_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I did not get <b>much</b> sleep.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="126" category="">		
+			<terms audio="803049_dr_fft24_hfwc_must_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_must_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[You <b>must</b> be tired.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="127" category="">		
+			<terms audio="803049_dr_fft24_hfwc_my_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_my_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will pick up <b>my</b> socks.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="128" category="">		
+			<terms audio="803049_dr_fft24_hfwc_myself_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"m"},{"id":2,"isHeart":false,"char":"y"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"l"},{"id":6,"isHeart":false,"char":"f"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_myself_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I made it <b>myself</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="129" category="">		
+			<terms audio="803049_dr_fft24_hfwc_never_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_never_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[He is <b>never</b> late to school.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="130" category="">		
+			<terms audio="803049_dr_fft24_hfwc_new_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_new_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I met a <b>new</b> friend.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="131" category="SHORT_O">		
+			<terms audio="803049_dr_fft24_hfwc_no_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_no_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[There is <b>no</b> milk in the glass.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="132" category="">		
+			<terms audio="803049_dr_fft24_hfwc_not_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_not_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I am <b>not</b> hot.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="133" category="">		
+			<terms audio="803049_dr_fft24_hfwc_now_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_now_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can we leave <b>now</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="134" category="COMPLEX_VOWEL">		
+			<terms audio="803049_dr_fft24_hfwc_number_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"n"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":false,"char":"b"},{"id":5,"isHeart":false,"char":"e"},{"id":6,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_number_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[My favorite <b>number</b> is 3.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="135" category="SHORT_A">		
+			<terms audio="803049_dr_fft24_hfwc_of_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"o"},{"id":2,"isHeart":true,"char":"f"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_of_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The table is made <b>of</b> glass.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="136" category="">		
+			<terms audio="803049_dr_fft24_hfwc_off_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"f"},{"id":3,"isHeart":false,"char":"f"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_off_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Turn the light <b>off</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="137" category="">		
+			<terms audio="803049_dr_fft24_hfwc_old_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_old_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[How <b>old</b> are you?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="138" category="">		
+			<terms audio="803049_dr_fft24_hfwc_on_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_on_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Turn the light <b>on</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="139" category="SHORT_O">		
+			<terms audio="803049_dr_fft24_hfwc_once_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"o"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":true,"char":"c"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_once_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The class meets <b>once</b> a week.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="140" category="SHORT_O">		
+			<terms audio="803049_dr_fft24_hfwc_one_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"o"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_one_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Earth has <b>one</b> moon.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="141" category="">		
+			<terms audio="803049_dr_fft24_hfwc_only_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_only_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[My team <b>only</b> lost one game.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="142" category="">		
+			<terms audio="803049_dr_fft24_hfwc_open_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"p"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_open_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The window is <b>open</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="143" category="">		
+			<terms audio="803049_dr_fft24_hfwc_or_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_or_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We can sit <b>or</b> stand.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="144" category="DIGRAPH_CH_TCH">		
+			<terms audio="803049_dr_fft24_hfwc_other_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"o"},{"id":2,"isHeart":false,"char":"t"},{"id":3,"isHeart":false,"char":"h"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_other_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will sit at the <b>other</b> table.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="145" category="ENDING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_our_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_our_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Meg is on <b>our</b> team.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="146" category="">		
+			<terms audio="803049_dr_fft24_hfwc_out_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_out_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We get <b>out</b> of the van.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="147" category="DIPHTHONG_OI_OY">		
+			<terms audio="803049_dr_fft24_hfwc_over_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"v"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_over_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The ball went <b>over</b> the fence.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="148" category="">		
+			<terms audio="803049_dr_fft24_hfwc_own_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"o"},{"id":2,"isHeart":false,"char":"w"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_own_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I saw it with my <b>own</b> eyes.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="149" category="">		
+			<terms audio="803049_dr_fft24_hfwc_part_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_part_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The ending was <b>part</b> of the story.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="150" category="LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_people_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":true,"char":"e"},{"id":3,"isHeart":true,"char":"o"},{"id":4,"isHeart":false,"char":"p"},{"id":5,"isHeart":false,"char":"l"},{"id":6,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_people_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[There are a lot of <b>people</b> in the room.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="151" category="">		
+			<terms audio="803049_dr_fft24_hfwc_pick_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_pick_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[You can <b>pick</b> a game to play.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="152" category="">		
+			<terms audio="803049_dr_fft24_hfwc_place_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"c"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_place_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[This is a nice <b>place</b> for a picnic.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="153" category="">		
+			<terms audio="803049_dr_fft24_hfwc_play_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_play_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can we <b>play</b> a game?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="154" category="R_CONTROLLED_ARE_AIR_EAR">		
+			<terms audio="803049_dr_fft24_hfwc_please_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"a"},{"id":5,"isHeart":false,"char":"s"},{"id":6,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_please_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Please</b> wait for your turn.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="155" category="LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_pretty_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"t"},{"id":6,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_pretty_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Look at the <b>pretty</b> flowers!]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="156" category="">		
+			<terms audio="803049_dr_fft24_hfwc_pull_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_pull_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Do not <b>pull</b> the cat's tail!]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="157" category="LONG_U">		
+			<terms audio="803049_dr_fft24_hfwc_put_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"p"},{"id":2,"isHeart":true,"char":"u"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_put_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>put</b> my hand in my pocket.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="158" category="">		
+			<terms audio="803049_dr_fft24_hfwc_ran_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_ran_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Jill <b>ran</b> to the bus.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="159" category="">		
+			<terms audio="803049_dr_fft24_hfwc_read_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_read_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The teacher will <b>read</b> to the class.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="160" category="">		
+			<terms audio="803049_dr_fft24_hfwc_red_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_red_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The rose is <b>red</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="161" category="">		
+			<terms audio="803049_dr_fft24_hfwc_ride_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"d"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_ride_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>ride</b> a bike?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="162" category="">		
+			<terms audio="803049_dr_fft24_hfwc_right_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"g"},{"id":4,"isHeart":false,"char":"h"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_right_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Turn <b>right</b> at the next corner.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="163" category="">		
+			<terms audio="803049_dr_fft24_hfwc_round_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"u"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_round_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Are all wheels <b>round</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="164" category="">		
+			<terms audio="803049_dr_fft24_hfwc_run_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"r"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_run_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I like to <b>run</b> on the track.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="165" category="SHORT_E">		
+			<terms audio="803049_dr_fft24_hfwc_said_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":true,"char":"i"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_said_sentence.mp3" contenttype="text">	
+				<![CDATA[Mom <b>said,</b> "Go to bed."]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="166" category="R_CONTROLLED_VOWEL_OR_ORE_OAR">		
+			<terms audio="803049_dr_fft24_hfwc_same_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_same_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We are on the <b>same</b> team.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="167" category="SHORT_I">		
+			<terms audio="803049_dr_fft24_hfwc_saw_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_saw_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>saw</b> eggs in the nest.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="168" category="">		
+			<terms audio="803049_dr_fft24_hfwc_say_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_say_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>say</b> hello?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="169" category="">		
+			<terms audio="803049_dr_fft24_hfwc_see_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_see_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>see</b> the moon?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="170" category="COMPLEX_VOWEL">		
+			<terms audio="803049_dr_fft24_hfwc_seven_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"v"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_seven_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[A week has <b>seven</b> days.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="171" category="">		
+			<terms audio="803049_dr_fft24_hfwc_shall_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"a"},{"id":4,"isHeart":true,"char":"l"},{"id":5,"isHeart":true,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_shall_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[When <b>shall</b> we eat?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="172" category="">		
+			<terms audio="803049_dr_fft24_hfwc_she_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_she_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>She</b> is in my class.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="173" category="FINAL_E_WITH_SOFT_C_G">		
+			<terms audio="803049_dr_fft24_hfwc_should_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"o"},{"id":4,"isHeart":true,"char":"u"},{"id":5,"isHeart":true,"char":"l"},{"id":6,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_should_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[What <b>should</b> I wear?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="174" category="">		
+			<terms audio="803049_dr_fft24_hfwc_show_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_show_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>show</b> you the dance steps.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="175" category="">		
+			<terms audio="803049_dr_fft24_hfwc_sing_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"g"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_sing_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I like to <b>sing</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="176" category="">		
+			<terms audio="803049_dr_fft24_hfwc_sit_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_sit_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We can <b>sit</b> on the bench.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="177" category="">		
+			<terms audio="803049_dr_fft24_hfwc_six_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"x"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_six_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bug has <b>six</b> legs.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="178" category="">		
+			<terms audio="803049_dr_fft24_hfwc_sleep_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"l"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_sleep_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>sleep</b> in the tent.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="179" category="">		
+			<terms audio="803049_dr_fft24_hfwc_small_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"m"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"l"},{"id":5,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_small_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The nail made a <b>small</b> hole in the wall.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="180" category="">		
+			<terms audio="803049_dr_fft24_hfwc_so_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_so_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Wear a raincoat <b>so</b> you won't get wet.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="181" category="FINAL_E">		
+			<terms audio="803049_dr_fft24_hfwc_some_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_some_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I eat <b>some</b> grapes.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="182" category="">		
+			<terms audio="803049_dr_fft24_hfwc_soon_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_soon_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We will be home <b>soon</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="183" category="">		
+			<terms audio="803049_dr_fft24_hfwc_start_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"t"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"r"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_start_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The show will <b>start</b> at six.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="184" category="">		
+			<terms audio="803049_dr_fft24_hfwc_stop_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"t"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_stop_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did the rain <b>stop</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="185" category="">		
+			<terms audio="803049_dr_fft24_hfwc_such_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"s"},{"id":2,"isHeart":false,"char":"u"},{"id":3,"isHeart":false,"char":"c"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_such_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is <b>such</b> a nice day!]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="186" category="">		
+			<terms audio="803049_dr_fft24_hfwc_take_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"k"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_take_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>take</b> the last cookie?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="187" category="">		
+			<terms audio="803049_dr_fft24_hfwc_tell_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_tell_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you <b>tell</b> me a story?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="188" category="">		
+			<terms audio="803049_dr_fft24_hfwc_ten_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_ten_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I have <b>ten</b> cents.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="189" category="">		
+			<terms audio="803049_dr_fft24_hfwc_than_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_than_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Nine is less <b>than</b> ten.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="190" category="R_CONTROLLED_ARE_AIR_EAR">		
+			<terms audio="803049_dr_fft24_hfwc_thank_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_thank_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>thank</b> your friend for the book?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="191" category="LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_that_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_that_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>That</b> man is my dad.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="192" category="SHORT_A">		
+			<terms audio="803049_dr_fft24_hfwc_the.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_the_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I play <b>the</b> piano.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="193" category="DIGRAPH_TH">		
+			<terms audio="803049_dr_fft24_hfwc_their_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"i"},{"id":5,"isHeart":true,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_their_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[They pack <b>their</b> bags.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="194" category="LONG_O">		
+			<terms audio="803049_dr_fft24_hfwc_them.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"m"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_them_sentence.mp3" contenttype="text">	
+				<![CDATA[I will go with <b>them</b>.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="195" category="LONG_O">		
+			<terms audio="803049_dr_fft24_hfwc_then_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_then_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[First turn right, <b>then</b> turn left.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="196" category="DIGRAPH_TH">		
+			<terms audio="803049_dr_fft24_hfwc_there_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"r"},{"id":5,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_there_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[My friend lives over <b>there</b>.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="197" category="DIGRAPH_TH">		
+			<terms audio="803049_dr_fft24_hfwc_these_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"s"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_these_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I like to sing <b>these</b> songs.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="198" category="DIGRAPH_TH">		
+			<terms audio="803049_dr_fft24_hfwc_they_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_they_sentence.mp3" contenttype="text">	
+				<![CDATA[What did <b>they</b> say?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="199" category="MORE_LONG_O_LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_they're_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"y"},{"id":5,"isHeart":false,"char":"'"},{"id":6,"isHeart":false,"char":"r"},{"id":7,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_they're_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>They're</b> with us.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="200" category="">		
+			<terms audio="803049_dr_fft24_hfwc_things_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"g"},{"id":6,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_things_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you pack your <b>things</b> for school?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="201" category="">		
+			<terms audio="803049_dr_fft24_hfwc_think_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"n"},{"id":5,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_think_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>think</b> it will rain.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="202" category="LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_this_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_this_sentence.mp3" contenttype="text">	
+				<![CDATA[Did you read <b>this</b> book?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="203" category="">		
+			<terms audio="803049_dr_fft24_hfwc_those_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"s"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_those_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Those</b> snacks are for us.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="204" category="">		
+			<terms audio="803049_dr_fft24_hfwc_three_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_three_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We eat <b>three</b> meals a day.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="205" category="DIGRAPH_CH_TCH">		
+			<terms audio="803049_dr_fft24_hfwc_through_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":true,"char":"o"},{"id":5,"isHeart":true,"char":"u"},{"id":6,"isHeart":true,"char":"g"},{"id":7,"isHeart":true,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_through_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is hard to see <b>through</b> the fog.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="206" category="SHORT_OO">		
+			<terms audio="803049_dr_fft24_hfwc_time_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"m"},{"id":4,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_time_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is <b>time</b> for lunch.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="207" category="DIGRAPH_SH">		
+			<terms audio="803049_dr_fft24_hfwc_to_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":true,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_to_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[My cat likes <b>to</b> nap in the sun.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="208" category="LONG_A">		
+			<terms audio="803049_dr_fft24_hfwc_today_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"d"},{"id":4,"isHeart":false,"char":"a"},{"id":5,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_today_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We had fun <b>today</b>.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="209" category="COMPLEX_VOWEL">		
+			<terms audio="803049_dr_fft24_hfwc_together_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"g"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"t"},{"id":6,"isHeart":false,"char":"h"},{"id":7,"isHeart":false,"char":"e"},{"id":8,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_together_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Eve and I sit <b>together</b> on the bus.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="210" category="DIGRAPH_SH">		
+			<terms audio="803049_dr_fft24_hfwc_too_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_too_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I like that game, <b>too</b>.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="211" category="">		
+			<terms audio="803049_dr_fft24_hfwc_try_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_try_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I will <b>try</b> to help you.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="212" category="DIGRAPH_SH">		
+			<terms audio="803049_dr_fft24_hfwc_two_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"t"},{"id":2,"isHeart":true,"char":"w"},{"id":3,"isHeart":true,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_two_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bike has <b>two</b> wheels.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="213" category="DIPHTHONG_OI_OY">		
+			<terms audio="803049_dr_fft24_hfwc_under_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"n"},{"id":3,"isHeart":false,"char":"d"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_under_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The cat hid <b>under</b> the bed.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="214" category="DIPHTHONG_OI_OY">		
+			<terms audio="803049_dr_fft24_hfwc_up_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"p"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_up_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I look <b>up</b> at the stars.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="215" category="DIPHTHONG_OI_OY">		
+			<terms audio="803049_dr_fft24_hfwc_upon_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"p"},{"id":3,"isHeart":false,"char":"o"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_upon_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The queen sat <b>upon</b> her throne.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="216" category="DIPHTHONG_OU_OW">		
+			<terms audio="803049_dr_fft24_hfwc_us_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_us_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you see <b>us</b>?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="217" category="DIPHTHONG_OU_OW">		
+			<terms audio="803049_dr_fft24_hfwc_use_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"s"},{"id":3,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_use_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can I <b>use</b> your phone?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="218" category="">		
+			<terms audio="803049_dr_fft24_hfwc_used_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"u"},{"id":2,"isHeart":false,"char":"s"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_used_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Dad <b>used</b> a ladder to paint the ceiling.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="219" category="MORE_LONG_A_LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_very_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"v"},{"id":2,"isHeart":true,"char":"e"},{"id":3,"isHeart":false,"char":"r"},{"id":4,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_very_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[It is <b>very</b> hot in the sun.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="220" category="">		
+			<terms audio="803049_dr_fft24_hfwc_walk.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_walk_sentence.mp3" contenttype="text">	
+				<![CDATA[Will we <b>walk</b> or take the bus?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="221" category="LONG_A">		
+			<terms audio="803049_dr_fft24_hfwc_want_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_want_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Do you <b>want</b> to walk with me?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="222" category="LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_warm_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":false,"char":"m"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_warm_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Is the toast still <b>warm</b>?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="223" category="SHORT_I">		
+			<terms audio="803049_dr_fft24_hfwc_was_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":true,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_was_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Max <b>was</b> sad.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="224" category="DIGRAPH_SH">		
+			<terms audio="803049_dr_fft24_hfwc_wash_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_wash_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you <b>wash</b> the dish?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="225" category="LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_water_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"a"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"e"},{"id":5,"isHeart":false,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_water_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I take a sip of <b>water</b>.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="226" category="LONG_OO">		
+			<terms audio="803049_dr_fft24_hfwc_way_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"a"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_way_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Is this the right <b>way</b> to go?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="227" category="">		
+			<terms audio="803049_dr_fft24_hfwc_we_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_we_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>We</b> are in the same class.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="228" category="R_CONTROLLED_VOWEL_AR">		
+			<terms audio="803049_dr_fft24_hfwc_well_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_well_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[You sing and dance <b>well</b>.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="229" category="">		
+			<terms audio="803049_dr_fft24_hfwc_went_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_went_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Ted <b>went</b> home.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="230" category="MORE_LONG_A_LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_were_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"e"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_were_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[We <b>were</b> tired at the end of the day.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="231" category="DIGRAPH_WH">		
+			<terms audio="803049_dr_fft24_hfwc_what_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"a"},{"id":4,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_what_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>What</b> is in the box?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="232" category="MORE_LONG_A_LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_when_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"e"},{"id":4,"isHeart":false,"char":"n"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_when_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>When</b> will the movie end?]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="233" category="DIGRAPH_WH">		
+			<terms audio="803049_dr_fft24_hfwc_where_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"e"},{"id":4,"isHeart":true,"char":"r"},{"id":5,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_where_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Where</b> is my red pen?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="234" category="">		
+			<terms audio="803049_dr_fft24_hfwc_which_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"c"},{"id":5,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_which_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Which</b> key fits in the lock?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="235" category="">		
+			<terms audio="803049_dr_fft24_hfwc_white_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_white_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The flag is red and <b>white</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="236" category="DIGRAPH_WH">		
+			<terms audio="803049_dr_fft24_hfwc_who_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":true,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":true,"char":"o"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_who_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Who</b> will be next?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="237" category="DIGRAPH_WH">		
+			<terms audio="803049_dr_fft24_hfwc_why_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"h"},{"id":3,"isHeart":false,"char":"y"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_why_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Why</b> is the sky blue?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="238" category="R_CONTROLLED_VOWEL_AR">		
+			<terms audio="803049_dr_fft24_hfwc_will_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_will_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>will</b> take a nap.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="239" category="">		
+			<terms audio="803049_dr_fft24_hfwc_wish_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"s"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_wish_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did you make a <b>wish</b>?]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="240" category="SHORT_U">		
+			<terms audio="803049_dr_fft24_hfwc_with.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"i"},{"id":3,"isHeart":false,"char":"t"},{"id":4,"isHeart":false,"char":"h"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_with_sentence.mp3" contenttype="text">	
+				<![CDATA[I need help <b>with</b> my homework.]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="241" category="MORE_LONG_O_LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_won't_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":false,"char":"n"},{"id":4,"isHeart":false,"char":"'"},{"id":5,"isHeart":false,"char":"t"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_won't_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>won't</b> be late for dinner.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="242" category="DIPHTHONG_OU_OW">		
+			<terms audio="803049_dr_fft24_hfwc_word_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_word_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can you spell that <b>word</b>?]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="243" category="DIPHTHONG_OU_OW">		
+			<terms audio="803049_dr_fft24_hfwc_words_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":false,"char":"d"},{"id":5,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_words_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I know the <b>words</b> to the song.]]>
+			</def>	
+			<set>Module 6</set>	
+		</card>		
+		<card id="244" category="MORE_LONG_A_LONG_I">		
+			<terms audio="803049_dr_fft24_hfwc_work_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"r"},{"id":4,"isHeart":false,"char":"k"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_work_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>work</b> at my desk.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="245" category="FINAL_E_WITH_SOFT_C_G">		
+			<terms audio="803049_dr_fft24_hfwc_would_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"u"},{"id":4,"isHeart":true,"char":"l"},{"id":5,"isHeart":false,"char":"d"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_would_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[I <b>would</b> be glad to help.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="246" category="">		
+			<terms audio="803049_dr_fft24_hfwc_write_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"w"},{"id":2,"isHeart":false,"char":"r"},{"id":3,"isHeart":false,"char":"i"},{"id":4,"isHeart":false,"char":"t"},{"id":5,"isHeart":false,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_write_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Write</b> your name on the paper.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="247" category="LONG_E">		
+			<terms audio="803049_dr_fft24_hfwc_years_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"a"},{"id":4,"isHeart":false,"char":"r"},{"id":5,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_years_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Ten <b>years</b> is a long time.]]>
+			</def>	
+			<set>Module 5</set>	
+		</card>		
+		<card id="248" category="">		
+			<terms audio="803049_dr_fft24_hfwc_yellow_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"l"},{"id":4,"isHeart":false,"char":"l"},{"id":5,"isHeart":false,"char":"o"},{"id":6,"isHeart":false,"char":"w"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_yellow_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[The bus is <b>yellow</b>.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="249" category="">		
+			<terms audio="803049_dr_fft24_hfwc_yes_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":false,"char":"e"},{"id":3,"isHeart":false,"char":"s"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_yes_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[<b>Yes,</b> I can see them.]]>
+			</def>	
+			<set></set>	
+		</card>		
+		<card id="250" category="SHORT_E">		
+			<terms audio="803049_dr_fft24_hfwc_you_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"u"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_you_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Did <b>you</b> win the game?]]>
+			</def>	
+			<set>Module 3</set>	
+		</card>		
+		<card id="251" category="BEGINNING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_you're_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":true,"char":"o"},{"id":3,"isHeart":true,"char":"u"},{"id":4,"isHeart":true,"char":"r"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_you're_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Can I use <b>your</b> pencil?]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+		<card id="252" category="BEGINNING_BLENDS">		
+			<terms audio="803049_dr_fft24_hfwc_your_1R.mp3" contenttype="text">	
+				<![CDATA[[{"id":1,"isHeart":false,"char":"y"},{"id":2,"isHeart":false,"char":"o"},{"id":3,"isHeart":false,"char":"u"},{"id":4,"isHeart":true,"char":"'"},{"id":5,"isHeart":true,"char":"r"},{"id":6,"isHeart":true,"char":"e"}]]]>
+			</terms>	
+			<def audio="803049_dr_fft24_hfwc_your_sentence_1R.mp3" contenttype="text">	
+				<![CDATA[Please call me when <b>you're</b> ready.]]>
+			</def>	
+			<set>Module 4</set>	
+		</card>		
+	</cardContent>			
+	<footer>			
+		<module>		
+			<default>false</default>	
+			<set>Module 1</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#FFD400","colorFooter":"#000000","module":"Module 1","moduleName":"Alphabet"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 2</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#DBA111","colorFooter":"#000000","module":"Module 2","moduleName":"Phonological Awareness"}</content>	
+		</module>		
+		<module>		
+			<default>true</default>	
+			<set>Module 3</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#DB5C1E","colorFooter":"#FFFFFF","module":"Module 3","moduleName": "Short Vowels"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 4</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#DD078C","colorFooter":"#FFFFFF","module":"Module 4","moduleName":"Consonant Blends and Digraphs"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 5</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#DD1832","colorFooter":"#FFFFFF","module":"Module 5","moduleName":"Long Vowels"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 6</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#7956A4","colorFooter":"#FFFFFF","module":"Module 6","moduleName":"Complex Vowels"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 7</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#007DBA","colorFooter":"#FFFFFF","module":"Module 7","moduleName":"Multisyllablic Words"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 8</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#00893C","colorFooter":"#FFFFFF","module":"Module 8","moduleName":"Word Study"}</content>	
+		</module>		
+		<module>		
+			<default>false</default>	
+			<set>Module 9</set>	
+			<content>{"bColor":"#dc6124","bColorFooter":"#005088","colorFooter":"#FFFFFF","module":"Module 9","moduleName":"Advancing Reading Success"}</content>	
+		</module>		
+	</footer>			
+</cardflip>				
