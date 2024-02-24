@@ -2,8 +2,6 @@ package kutilities.domain.dto.wfh;
 
 import lombok.*;
 
-import java.util.List;
-
 @Getter
 @Setter
 @Builder
@@ -11,5 +9,5 @@ import java.util.List;
 @AllArgsConstructor
 public class BackValue {
     private String audio;
-    private String value;
+    private String content;
 }

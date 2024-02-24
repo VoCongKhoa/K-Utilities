@@ -4,10 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.apache.poi.ss.usermodel.Row;
 
-import javax.persistence.*;
-import java.sql.Timestamp;
+import javax.persistence.Column;
 
 @Builder
 @Data

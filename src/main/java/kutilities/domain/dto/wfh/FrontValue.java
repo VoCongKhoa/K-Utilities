@@ -11,5 +11,5 @@ import java.util.List;
 @AllArgsConstructor
 public class FrontValue {
     private String audio;
-    private List<CharacterDto> value;
+    private List<CharacterDTO> content;
 }

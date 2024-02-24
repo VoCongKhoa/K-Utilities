@@ -2,7 +2,6 @@ package kutilities.domain.entity.wfh;
 
 import kutilities.repository.wfh.FlashCardEntityRepository;
 import lombok.*;
-import org.apache.poi.ss.usermodel.Row;
 
 import javax.persistence.*;
 
@@ -26,8 +25,4 @@ public class FlashCardEntity {
     private String targetSkillName;
     @Column(name = "programid")
     private Long programId;
-
-    public static FlashCardEntity buildOne(Row row) {
-        return null;
-    }
 }
